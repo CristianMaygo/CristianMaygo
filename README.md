@@ -63,7 +63,7 @@ Aplicación web para negocios con envío masivo de notificaciones.
 
 ## 📚 Educación  
 🎓 Tecnólogo en Desarrollo de Software – *SENA* (En curso)  
-🎓 Técnico en Desarrollo de Software – *CESDE* (En curso)  
+🎓 Técnico en Desarrollo de Software – *CESDE* (Finalizado)  
 🎓 Bachiller Académico – *Institución Asia Ignaciana*  
 
 ---
